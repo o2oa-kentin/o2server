@@ -25,3 +25,7 @@ version.o2
 /custom/
 /dynamic/
 
+/x_jpush_assemble_control/target
+/.idea
+/package-lock.json
+/store/*.war
